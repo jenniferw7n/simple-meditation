@@ -1,4 +1,4 @@
-This is a simple meditation app built with React Native & Expo that allows users to personalize their meditation sessions by selecting background images, music, and session duration. It is developed using React Native, Expo, Tailwind CSS, and other tools as part of an online course to learn React Native and Expo for mobile app development.
+This is a simple meditation app built with React Native & Expo that allows users to personalize their meditation sessions by selecting background images, music, and session duration. It is developed using React Native, Expo, Tailwind CSS, and other tools as part of an online course to learn React Native and Expo for mobile app development. 
 
 ## Get started
 
@@ -46,3 +46,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+  
+The link to the original online course: https://www.youtube.com/watch?v=9UKCv9T_rIo&ab_channel=freeCodeCamp.org
