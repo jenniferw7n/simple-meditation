@@ -1,6 +1,4 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a simple meditation app built with React Native & Expo that allows users to personalize their meditation sessions by selecting background images, music, and session duration. It is developed using React Native, Expo, Tailwind CSS, and other tools as part of an online course to learn React Native and Expo for mobile app development.
 
 ## Get started
 
